@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays_Demo/Arrays_Demo.iml" filepath="$PROJECT_DIR$/Arrays_Demo/Arrays_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BTK_WorkSpace.iml" filepath="$PROJECT_DIR$/.idea/BTK_WorkSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Btk_Akademi/Btk_Akademi.iml" filepath="$PROJECT_DIR$/Btk_Akademi/Btk_Akademi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditionals/Conditionals.iml" filepath="$PROJECT_DIR$/Conditionals/Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypes/DataTypes.iml" filepath="$PROJECT_DIR$/DataTypes/DataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop_Demo/Loop_Demo.iml" filepath="$PROJECT_DIR$/Loop_Demo/Loop_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multi_Dimensional_Array_Demo/Multi_Dimensional_Array_Demo.iml" filepath="$PROJECT_DIR$/Multi_Dimensional_Array_Demo/Multi_Dimensional_Array_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReCap_Demo_2/ReCap_Demo_2.iml" filepath="$PROJECT_DIR$/ReCap_Demo_2/ReCap_Demo_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recap_Demo_1/Recap_Demo_1.iml" filepath="$PROJECT_DIR$/Recap_Demo_1/Recap_Demo_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch_Demo/Switch_Demo.iml" filepath="$PROJECT_DIR$/Switch_Demo/Switch_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
+    </modules>
+  </component>
+</project>
